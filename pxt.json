@@ -1,0 +1,19 @@
+{
+    "name": "Collect the Clovers ",
+    "dependencies": {
+        "device": "*",
+        "corgio": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.1.3",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
